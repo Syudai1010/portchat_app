@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-pinecone-client
+pinecone-client==1.0.6
 langchain
 openai
 altair==4.2.0
